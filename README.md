@@ -18,7 +18,7 @@ Spring MVC &amp; Spring Data JPA &amp; Thymeleaf &amp; MariaDB
 - Spring Boot (v2.7.1)
 - Spring Data JPA
 - IntelliJ IDEA CE
-- MariaDB (v2.7.0)
+- MariaDB (v3.0.6)
 
 
 ## Spring Initializr - Selected Dependencies
