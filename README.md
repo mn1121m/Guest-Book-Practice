@@ -35,3 +35,11 @@ Spring MVC &amp; Spring Data JPA &amp; Thymeleaf &amp; MariaDB
 
 ### SQL
 - Spring Data JPA
+
+
+## Guestbook page
+- http://localhost:8080/guestbook/list
+
+  <img width="1000" alt="guestbook_page" src="https://user-images.githubusercontent.com/83820185/179460599-f2d529f0-3dc4-4d2e-9664-fd52e9994686.png">
+
+
