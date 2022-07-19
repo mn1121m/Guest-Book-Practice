@@ -37,6 +37,13 @@ Spring MVC &amp; Spring Data JPA &amp; Thymeleaf &amp; MariaDB
 - Spring Data JPA
 
 
+## IntelliJ IDEA CE
+- Gradle Setting
+  
+    <img width="700" alt="guest-book-practice-gradle-setting" src="https://user-images.githubusercontent.com/83820185/179662416-c4b222c4-b1bb-476a-8421-991a33e6b0e4.png">
+
+  
+
 ## Guestbook page
 - http://localhost:8080/guestbook/list
 
